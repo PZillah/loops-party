@@ -21,3 +21,9 @@ for char in "CSCI 150":
 print()
 for i in range(1,11):
     print(i)
+
+saying = "howdy"
+for u in saying.upper():
+    print(saying, end="!! ")
+print()
+
